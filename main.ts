@@ -1,14 +1,4 @@
 /**
- * Case / Switch blocks for MakeCode Minecraft Education Edition
- *
- * Usage (Blocks):
- *   [switch on] [value]
- *   [if] [case 1]             [then] → do ...
- *   [if] [case from 70 to 89] [then] → do ...
- *   [if] [default case]       [then] → do ...
- */
-
-/**
  * Case Switch – เขียนหลายเงื่อนไขได้ง่าย ไม่ต้อง if/else ซ้อนกัน
  */
 //% block="Case Switch"
