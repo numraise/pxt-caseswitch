@@ -1,7 +1,7 @@
 {
     "name": "pxt-caseswitch",
-    "description": "Case / Switch multi-condition blocks for Minecraft Education Edition MakeCode. Replaces deeply-nested if/else with clean case matching for numbers, text, and booleans.",
-    "version": "1.0.0",
+    "description": "Case / Switch multi-condition blocks for Minecraft Education Edition MakeCode.",
+    "version": "2.1.0",
     "dependencies": {
         "minecraft": "*"
     },
